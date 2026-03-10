@@ -24,15 +24,15 @@ LEXUS OSINT TOOL; kullanıcı adı ve fotoğraflar üzerinden açık kaynaklı b
 
 📦 Kurulum
 
-git clone https://github.com/lexusscxn123/lexus-osint
-cd lexus-osint
+git clone https://github.com/lexusscxn123-ops/Osint-
+cd Osint-
 pip install -r requirements.txt
 
 ---
 
 ▶ Çalıştırma
 
-python main.py
+python osint.py
 
 ---
 
